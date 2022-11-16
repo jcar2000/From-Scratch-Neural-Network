@@ -1,3 +1,3 @@
-# From-Scratch-Neural-Network
+# From Scratch ID3 Decision Tree
 
 WIP
